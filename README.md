@@ -1,4 +1,4 @@
-# BootTest
+# BootTest 
 启动耗时测试
 
 ## 环境
@@ -7,7 +7,7 @@ go 1.7.3
 leveldb
 
 ## 使用
-1. 执行 BootTest.exe
+1. 执行 Bootest.exe
 2. 将要测试的可执行文件拖入窗口
 3. 回车
 
